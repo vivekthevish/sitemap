@@ -3,6 +3,8 @@
 To run the program:
 Go to the program folder on the terminal and Install requirements.txt with below command
 >> pip install -r requirements.txt
+ 
+ 
  Run the program with the below command
 >> python sitemap.py https://www.domain_name.com
 
